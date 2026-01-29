@@ -30,7 +30,7 @@ Le `Tokenizer` offre des options pour affiner le traitement des données :
 
 # Implémentation : La fonction `tokenize_text_corpus`
 
-Voici le code complété et l'explication technique du processus de transformation.
+
 
 ### Code Python (TensorFlow)
 
