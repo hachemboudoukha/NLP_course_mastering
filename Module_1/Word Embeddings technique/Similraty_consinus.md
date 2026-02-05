@@ -1,4 +1,4 @@
-# Résumé du Chapitre : Similarité Cosinus (Cosine Similarity)
+# Similarité Cosinus (Cosine Similarity)
 
 ## 1. Mesurer la Similarité entre Vecteurs
 
