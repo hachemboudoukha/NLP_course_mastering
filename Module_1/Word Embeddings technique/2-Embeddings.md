@@ -1,4 +1,4 @@
-# Résumé du Chapitre : Word Embeddings (Plongements Lexicaux)
+# Word Embeddings (Plongements Lexicaux)
 
 ## 1. Pourquoi utiliser des Embeddings ?
 
