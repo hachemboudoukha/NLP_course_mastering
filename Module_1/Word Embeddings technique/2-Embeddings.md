@@ -1,4 +1,5 @@
-# Word Embeddings (Plongements Lexicaux)
+# Word Embeddings 
+
 
 ## 1. Pourquoi utiliser des Embeddings ?
 
